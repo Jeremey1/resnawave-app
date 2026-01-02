@@ -1,8 +1,9 @@
 {
-  "version": "2.2.9",
+  "version": "2.3.0",
   "versionCode": 68,
   "downloadUrl": "https://github.com/Jeremey1/resnawave-app/releases/download/Resnawave_App/app-release.apk",
   "releaseNotes": "ADC calculator added, builder visability"
 }
+
 
 
