@@ -2,8 +2,9 @@
   "version": "2.3.1",
   "versionCode": 68,
   "downloadUrl": "https://github.com/Jeremey1/resnawave-app/releases/download/Resnawave_App/app-release.apk",
-  "releaseNotes": "UI fixes. bluetooth filter added"
+  "releaseNotes": "SD Status fix"
 }
+
 
 
 
