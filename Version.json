@@ -1,18 +1,17 @@
 {
-  "version": "2.3.4",
-  "versionCode": 103,
+  "version": "2.3.5",
+  "versionCode": 104,
   "downloadUrl": "https://github.com/Jeremey1/resnawave-app/releases/download/Resnawave_App/app-retail-release.apk",
   "releaseNotes": "Bug fixes and improvements",
   "retail": {
-    "version": "2.3.3",
-    "versionCode": 102,
+    "version": "2.3.5",
+    "versionCode": 104,
     "downloadUrl": "https://github.com/Jeremey1/resnawave-app/releases/download/Resnawave_App/app-retail-release.apk",
     "releaseNotes": "Bug fixes and improvements"
   },
   "service": {
-    "version": "2.3.4",
-    "versionCode": 103
-  ,
+    "version": "2.3.5",
+    "versionCode": 104,
     "downloadUrl": "https://github.com/Jeremey1/resnawave-app/releases/download/Resnawave_App/app-service-release.apk",
     "releaseNotes": "Bug fixes and improvements"
   }
